@@ -1,1 +1,1 @@
-# aiSotingAlgorithm
+# imageClassifyingNN
